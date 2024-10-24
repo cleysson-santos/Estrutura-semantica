@@ -1,4 +1,4 @@
-# Estrutura semântica
+# <center>Estrutura semântica<center>
 
 [Tecnologias](#tecnologias) - [Colaborador](#colaborador/curso)
 
