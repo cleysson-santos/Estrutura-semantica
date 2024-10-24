@@ -1,4 +1,4 @@
-# <center>Estrutura semântica<center>
+<h1 align="center">Estrutura semântica</h1>
 
 [Tecnologias](#tecnologias) - [Colaborador](#colaborador/curso)
 
